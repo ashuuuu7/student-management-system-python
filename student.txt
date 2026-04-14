@@ -1,0 +1,4 @@
+Ashu, 1, 99
+Rahul, 2, 85
+Aman, 3, 76
+Rohit, 4, 88
